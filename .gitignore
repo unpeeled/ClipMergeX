@@ -1,0 +1,7 @@
+*pyc
+*.mp4
+*.webm
+*.ts
+*ffmpeg2pass-0.log
+*temp_files.txt
+*x265_pass2*
